@@ -1,0 +1,16 @@
+# Ignore system files
+.DS_Store
+.Trash/
+.localized
+
+# Ignore IDE and editor-specific files
+.idea/
+*.iml
+.vscode/
+
+# Ignore node modules
+node_modules/
+
+# Ignore any files outside the project directory
+../../*
+../../../*
